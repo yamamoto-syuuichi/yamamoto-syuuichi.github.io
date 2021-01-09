@@ -1,0 +1,41 @@
+all and (max-width: 670px) {
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .top-wrapper .btn {
+    width: 100%;
+  }
+
+  .twitter {
+    margin-top: 10px;
+  }
+
+  .top-wrapper {
+    text-align: left;
+  }
+
+  .top-wrapper h1 {
+    font-size: 24px;
+  }
+
+  .top-wrapper p {
+    font-size: 14px;
+  }
+
+  .lesson {
+    width: 100%;
+  }
+
+  .lesson-wrapper {
+    height: 1700px;
+  }
+
+  .message-wrapper .btn {
+    width: 100%;
+  }
+}
